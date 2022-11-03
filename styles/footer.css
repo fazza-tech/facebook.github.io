@@ -50,6 +50,10 @@ footer {
     font-size: 11px;
     margin-top: 15px;
   }
+  .footer-spacing{
+    height: 30px;
+  }
+
   .footer-container{
     background-color: #f5f6f7;
   }
