@@ -10,6 +10,15 @@ div{
   justify-content: center;
   text-align: center;
 }
+.meta-logo-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.book-name{
+  font-weight: 600;
+  font-size: 75px;
+}
 
 #fbLogo {
   width: 18rem;
